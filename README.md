@@ -6,7 +6,7 @@
   <br>
 
   <a href="https://www.linkedin.com/in/jonatan-machado/">
-    <img alt="Made by Jonatan" src="https://img.shields.io/badge/made%20by-joninter">
+    <img alt="Made by Jonatan" src="https://img.shields.io/badge/made%20by-joninter-yellow">
   </a>
 </p>
 
